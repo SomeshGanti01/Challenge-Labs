@@ -1,0 +1,11 @@
+Starting variation search...
+Lines processed: 200000 | Candidates tested: 12824116 | Recovered: 0
+Lines processed: 300000 | Candidates tested: 18423443 | Recovered: 0
+FOUND: Sparky = Admin09
+Lines processed: 400000 | Candidates tested: 22667133 | Recovered: 1
+Lines processed: 700000 | Candidates tested: 36150797 | Recovered: 1
+Lines processed: 1000000 | Candidates tested: 45341295 | Recovered: 1
+
+Search finished.
+Total candidates tested: 45341295
+Not recovered: JillC

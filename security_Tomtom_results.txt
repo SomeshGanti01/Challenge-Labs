@@ -1,0 +1,6 @@
+
+Testing salt: www.exploringsecurity.com
+FOUND: security 121298
+FOUND: Tomtom 54321
+
+Time: 1.12 seconds
